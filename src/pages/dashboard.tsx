@@ -63,7 +63,7 @@ export default function DashboardPage() {
                   <MessageSquareIcon className="h-5 w-5 text-blue-500" />
                 </div>
               </div>
-              <p className="mt-2 text-xs text-gray-600">+1 from last month</p>
+              <p className="mt-2 text-xs">+1 from last month</p>
             </CardContent>
           </Card>
 
